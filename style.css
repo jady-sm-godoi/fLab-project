@@ -1,5 +1,6 @@
 .auto-container{
     position: static;
+    max-width: 1240px;
     max-width: 100%;
     padding: 0px 20px;
 }

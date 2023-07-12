@@ -1,0 +1,39 @@
+.members-grid{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.post-author .inner-box .inner .author img{
+    object-fit: cover;
+    width: 150px;
+    height: 150px;
+}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #fff;
+    text-decoration: none;
+    background-color:#393b3f;
+    border: 1px solid #faba24;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: var(--bs-nav-tabs-link-active-color);
+    background-color: #faba24;
+    border-color: #faba24;
+}
+.nav-tabs {
+    border-bottom: 1px solid #faba24;
+}
+.nav-link{
+    color:#faba24;
+}
+.nav-link:hover{
+    border-color: #faba24 !important;
+    color:#faba24;
+}
+a:hover {
+    color: #fff;
+    text-decoration: none;
+}

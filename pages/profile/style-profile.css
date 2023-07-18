@@ -1,0 +1,14 @@
+.project-details .text-col .text {
+    position: relative;
+    margin-right: 0;
+    font-size: 24px;
+    font-family: 'Telegraf_UltraLight', sans-serif;
+    line-height: 1.45em;
+    z-index: 1;
+}
+
+.auto-container{
+    position: static;
+    max-width: 1240px;
+    padding: 0px 20px;
+}
